@@ -1,2 +1,2 @@
-# donet5api-jwt-clean
-Project for studies purpose
+# .NET 5 WebApi + JWT
+Project for studies purpose using a middleware and an attribute to check tokens
